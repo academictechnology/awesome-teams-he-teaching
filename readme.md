@@ -12,4 +12,4 @@
   -  [Conversations](https://www.avepoint.com/blog/microsoft-teams/microsoft-teams-conversations) (blog post) - 9 Best Practices for Successful Microsoft Teams Conversations
 
 ### Case Studies
-  -  [Hackathons](https://microsoft.sharepoint.com/teams/MicrosoftTeamsinHigherEducation-UKCohort/Shared%20Documents/Resources/_Invent%20for%20the%20Planet'%20-%20Texas%20A_M%20-%20HowTo%20-%20Lessons%20Learned%20-%20Best%20Practices.mp4) (recorded webcast mp4) - Texas A&M best practices around hackathons in Teams
+  -  [Hackathons](https://microsoft.sharepoint.com/teams/MicrosoftTeamsinHigherEducation-UKCohort/Shared%20Documents/Resources/_Invent%20for%20the%20Planet'%20-%20Texas%20A_M%20-%20HowTo%20-%20Lessons%20Learned%20-%20Best%20Practices.mp4) (recorded webcast mp4, 55m long) - Texas A&M best practices around hackathons in Teams
