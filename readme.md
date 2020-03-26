@@ -16,8 +16,7 @@
 
 ### Self-paced e-learning
 
-  -  
-[Transform Learning with Microsoft Teams](https://education.microsoft.com/en-us/course/9c9f5c11/overview) (`1h`)
+  -  [Transform Learning with Microsoft Teams](https://education.microsoft.com/en-us/course/9c9f5c11/overview) (`1h`)
   -  [Crafting a collaborative learning environment with Class Teams](https://education.microsoft.com/en-us/course/b1e15cfc/overview) (`1h`)
 
 ### Case Studies
